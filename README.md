@@ -19,3 +19,9 @@ The moveL control loop allows the definition of any end-effector Cartesian traje
 ### Polylines
 ![image](https://user-images.githubusercontent.com/32180331/230730499-6e195b82-7d98-4ac5-9c87-cc3fe3638b38.png)
 ![image](https://user-images.githubusercontent.com/32180331/230730508-481be222-428a-4039-bcbd-c382c2c1a0c5.png)
+
+## CoppeliaSim
+Simulation scripts on CoppeliaSim using the MATLAB API can be found on the `coppelia` folder.
+
+## Dependencies
+- MATLAB Robotics Toolbox
